@@ -1,0 +1,25 @@
+p{
+    color: aquamarine;
+    background-color: coral;
+}
+.cs3{
+    color: blue;
+    background-color: yellow;
+}
+.external{
+    color: red;
+    background-color: green;
+}
+.ABES ENGINEERING{
+    color: purple;
+    background-color: lightblue;
+}
+#ABES ENGINEERING STUDENT{
+    color: orange;
+    background-color: lightgreen;
+}
+H1{
+    text-align: center; 
+    color: black;   
+    background-color: white;
+}
