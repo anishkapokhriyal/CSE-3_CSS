@@ -18,8 +18,12 @@ p{
     color: orange;
     background-color: lightgreen;
 }
-H1{
+h1{
     text-align: center; 
     color: black;   
     background-color: white;
 }
+div{
+    padding: 10px;
+}
+    
